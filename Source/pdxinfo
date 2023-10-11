@@ -1,0 +1,7 @@
+name=Digipick
+author=Jesus A. Alvarez
+description=Lockpicking minigame
+bundleID=net.namedfork.digipick
+version=1.0
+buildNumber=1
+imagePath=images
