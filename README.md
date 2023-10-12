@@ -2,6 +2,8 @@
 
 This is a reimplementation of [Starfield Digipick Simulator by BB_Dev](https://bb-dev.itch.io/starfield-digipick-simulator) for the Panic Playdate handheld console.
 
+![Gif of the game running](screenshot.gif)
+
 ## Run
 
 * Download a `Digipick.pdx` from releases
